@@ -1,1 +1,3 @@
-rembg
+Библиотеки
+rembg    pip install rembg[gpu]   
+streamlit   pip install streamlit
